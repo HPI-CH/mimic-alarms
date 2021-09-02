@@ -1,6 +1,6 @@
 # Extracting Alarm Events from the MIMIC-III Clinical Database
 
-The script in the repository are supplementary material for the eponymous publication.
+The scripts in the repository are supplementary material for the eponymous publication.
 
 `create_clean_chartevents.ipynb` is a Juypter notebook showing step-by-step how the data set (i.e., the `CHARTEVENTS` table in MIMIC-III) is cleaned.
 
